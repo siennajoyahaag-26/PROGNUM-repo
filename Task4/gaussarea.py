@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
+# In[ ]:
 
 
 import numpy as np
@@ -32,6 +32,8 @@ plt.fill_between(x1, f1, z0, label = f"The area of the shaded region is {area: .
 plt.legend(loc='upper right')
 plt.show()
 
+
+# ![gaussarea1.png](attachment:a741a551-7a47-4026-89af-a254cee31980.png)
 
 # In[ ]:
 
